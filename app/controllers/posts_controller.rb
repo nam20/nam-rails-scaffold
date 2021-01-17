@@ -1,6 +1,9 @@
 class PostsController < ApplicationController
   before_action :set_post, only: [:show, :edit, :update, :destroy]
 
+
+  # the test nam rails yeah
+
   # GET /posts
   # GET /posts.json
   def index
