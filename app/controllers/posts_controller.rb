@@ -4,6 +4,11 @@ class PostsController < ApplicationController
 
   # the test nam rails yeah
 
+  #ddd
+  # 333@abstract33
+  # 33
+  # 
+
   # GET /posts
   # GET /posts.json
   def index
