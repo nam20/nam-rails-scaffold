@@ -4,10 +4,11 @@ class PostsController < ApplicationController
 
   # the test nam rails yeah
 
-  #ddd
-  # 333@abstract33
-  # 33
-  # 
+  # test11111
+  #
+  #
+  #
+  # #test333333313131313
 
   # GET /posts
   # GET /posts.json
